@@ -1,1 +1,7 @@
 nginx
+redis
+mysql:8.0.30
+rabbitmq:management
+minio/minio
+elasticsearch:8.6.0
+kibana:8.6.0
