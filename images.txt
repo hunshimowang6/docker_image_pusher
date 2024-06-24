@@ -5,4 +5,4 @@ rabbitmq:management
 minio/minio
 elasticsearch:8.6.0
 kibana:8.6.0
-mongo
+mongo:latest
