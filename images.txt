@@ -1,8 +1,9 @@
 nginx
 redis
-mysql:8.0.30
+mysql:8.0.33
 rabbitmq:management
 minio/minio
 elasticsearch:8.6.0
 kibana:8.6.0
 mongo:latest
+nacos/nacos-server:2.2.1
