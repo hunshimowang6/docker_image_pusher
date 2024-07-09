@@ -6,4 +6,4 @@ minio/minio
 elasticsearch:8.6.0
 kibana:8.6.0
 mongo:latest
-nacos/nacos-server:2.2.1
+nacos/nacos-server:v2.3.2
