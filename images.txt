@@ -7,3 +7,5 @@ elasticsearch:8.6.0
 kibana:8.6.0
 mongo:latest
 nacos/nacos-server:v2.3.2
+azul/zulu-openjdk:21
+azul/zulu-openjdk:17
